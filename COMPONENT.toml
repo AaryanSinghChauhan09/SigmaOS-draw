@@ -1,4 +1,4 @@
 [component]
 name = "SigmaOS-draw"
 tier = 3
-description = "Vector and bitmap drawing canvas application inspired by Linux Mint Drawing"
+description = "Simple raster drawing app"
